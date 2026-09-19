@@ -1,0 +1,11 @@
+$ curl -I https://api.github.com/repos/AidenVang/mcino-Introduction-to-Git-and-GitHub
+
+HTTP/2 200
+server: GitHub.com
+content-type: application/json; charset=utf-8
+status: 200 OK
+
+x-github-repository: AidenVang/mcino-Introduction-to-Git-and-GitHub
+x-github-source-repository: ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub
+x-ratelimit-limit: 60
+x-ratelimit-remaining: 59
